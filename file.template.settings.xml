@@ -1,0 +1,12 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <internal_templates>
+      <template name="Class.java" reformat="true" live-template-enabled="true" enabled="true" />
+    </internal_templates>
+    <includes_templates>
+      <template name="ActionScript File Header.as" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Author Header.java" reformat="true" live-template-enabled="true" />
+      <template name="Copyright Header.java" reformat="true" live-template-enabled="true" />
+    </includes_templates>
+  </component>
+</application>

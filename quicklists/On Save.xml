@@ -1,0 +1,5 @@
+<list display="On Save">
+  <action id="Javascript.Linters.EsLint.Fix" />
+  <action id="ReformatCode" />
+  <action id="Javascript.Linters.StandardJS.Fix" />
+</list>

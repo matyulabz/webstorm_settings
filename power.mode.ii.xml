@@ -1,0 +1,15 @@
+<application>
+  <component name="PowerModeII">
+    <option name="blueTo" value="255" />
+    <option name="colorAlpha" value="255" />
+    <option name="customBamImageFolder" value="$USER_HOME$" />
+    <option name="customFlameImageFolder" value="$USER_HOME$" />
+    <option name="enabled" value="false" />
+    <option name="flamesEnabled" value="false" />
+    <option name="hotkeyHeatup" value="false" />
+    <option name="isBamEnabled" value="false" />
+    <option name="redFrom" value="0" />
+    <option name="redTo" value="0" />
+    <option name="soundsFolder" value="$USER_HOME$" />
+  </component>
+</application>
